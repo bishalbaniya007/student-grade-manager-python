@@ -17,5 +17,3 @@ and highest/lowest scorers.
 - Dictionaries
 - Functions
 
-## Run
-python main.py
